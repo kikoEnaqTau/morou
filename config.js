@@ -14,17 +14,17 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapis.xyz': 'Your Key',
+	'https://zenzapis.xyz': '37CC845916',
 }
 
 // Other
-global.owner = ['6283167714830','6281382420312','6288292024190']
-global.premium = ['6288292024190']
-global.packname = 'Hisoka Morrow'
-global.author = 'WhatsApp Bot'
+global.owner = ['6289523573658', '6283171382342']
+global.premium = ['6289523573658', '6283171382342']
+global.packname = '0831 7138 2342'
+global.author = 'Save Yahh Kakk:)'
 global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
-global.sp = '⭔'
+global.sp = '>'
 global.mess = {
     success: '✓ Success',
     admin: 'Fitur Khusus Admin Group!',
